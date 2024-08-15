@@ -15,4 +15,5 @@ print("the tensor 1 is \n",tensor1)
 print("the tensor 2 is \n",tensor2)
 
 print("Sum:")
-print(result)
+print(type(result))
+print(result) #TODO get the time
