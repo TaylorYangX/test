@@ -1,1 +1,4 @@
-process_info/*.csv
+
+/process_info/*csv
+torch_run_always.py
+check_pytorch.py
